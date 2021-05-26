@@ -3,19 +3,19 @@
 Run commands:
 
 open new terminal in vs code-
-It will show PS D:\reacttut\amazonaapp>.
-Then give the command-: npm start
-click enter.
+It will show - PS D:\reacttut\amazonaapp>.
+Then give the command-: npm start .
+Then click enter.
 It will show the backend server on http://localhost:5000/api/products
 
 
 Now add new terminal-
 It will show PS D:\reacttut\amazonaapp>
-Then give the command-: cd frontend
-click enter
-PS D:\reacttut\amazonaapp\frontend>
-Then give the command -: npm start
-click enter
+Then give the command-: cd frontend .
+Then click enter.
+It will show - PS D:\reacttut\amazonaapp\frontend>
+Then give the command -: npm start .
+Then click enter.
 This will open http://localhost:3000 in browser
 
 In browser
