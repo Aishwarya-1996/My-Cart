@@ -1,4 +1,19 @@
 # My-Cart
+Install different libraries in frontend
+1. npm install --save react-redux
+2. npm install --save-dev redux-devtools
+3. npm install --save redux-thunk
+4. npm install axios
+5. npm install --save react-router-dom
+6. npm install express
+7. npm install js-cookie
+8. npm install react-dom
+
+Install different libraries in backend
+1. npm install --save-dev @bable/cli @babel/core @babel/node @babel/preset-env nodemon
+ 
+
+
 
 Run commands:
 
